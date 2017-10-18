@@ -8,3 +8,4 @@ Task: Дана БД, в которой есть Login, Hostname
 БД:
 ![alt text](https://github.com/Vladimir-ar/LDAP-change/blob/master/pict1.PNG)
 Исходная структура LDAP:
+![alt text](https://github.com/Vladimir-ar/LDAP-change/blob/master/pict2.PNG)
